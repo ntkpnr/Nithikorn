@@ -1,32 +1,32 @@
 # Nithikorn
 <div align="center">
 
-# Hi there, I'm Nithikorn Panarak 👋
+# Hi there, I'm Nithikorn Panarak 
 ### Digital Marketing | Content Creator | Video Editor
 
 📍 Chanthaburi, Thailand  
-🎓 Senior Student (Year 4) in Digital Marketing, Faculty of Communication Arts, UTCC
+ Senior Student (Year 4) in Digital Marketing, Faculty of Communication Arts, UTCC
 
 </div>
 
 ---
 
-### 🎯 Career Objective
+###  Career Objective
 > "To develop my career in digital marketing, content creation, or video editing and contribute creative ideas, practical skills, and a strong willingness to learn to a professional team."
 
 ---
 
-### 💼 Work Experience
+###  Work Experience
 
 #### **Video Creator / Content Creator**
-🗓️ *May 18 – August 7, 2025*
+ *May 18 – August 7, 2025*
 - Video editing and content projects designed for social media platforms.
 - Emphasis on concise storytelling and audience engagement.
 - วางแผนและดำเนินเรื่องให้กระชับ ตรงประเด็น เพื่อดึงดูดกลุ่มเป้าหมายอย่างมีประสิทธิภาพ
 
 ---
 
-### 🎓 Education
+###  Education
 
 - **Bachelor of Communication Arts in Digital Marketing**
   - **University:** University of the Thai Chamber of Commerce (UTCC)
@@ -34,18 +34,17 @@
 
 ---
 
-### 🌱 Interests & Hobbies
+###  Interests & Hobbies
 
-- 🎬 Video Editing & Content Creation
-- 📈 Digital Marketing Trends
-- 🌿 Peaceful & Quiet Relaxation
-- 🏋️‍♂️ Fitness & Weight Training
+- Video Editing & Content Creation
+- Digital Marketing Trends
+- Peaceful & Quiet Relaxation
 
 ---
 
 <div align="center">
 
-### 📫 Connect with Me
+###  Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
