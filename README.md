@@ -22,7 +22,7 @@
  *May 18 – August 7, 2025*
 - Video editing and content projects designed for social media platforms.
 - Emphasis on concise storytelling and audience engagement.
-- วางแผนและดำเนินเรื่องให้กระชับ ตรงประเด็น เพื่อดึงดูดกลุ่มเป้าหมายอย่างมีประสิทธิภาพ
+
 
 ---
 
